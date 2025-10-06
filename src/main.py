@@ -1,4 +1,2 @@
-import torch 
-print("GPU available:", torch.cuda.is_available()) 
-print("My AI project is ready!") 
-print("Test successful!") 
+print("My AI Grad Project is LIVE!") 
+print("GitHub setup successful!") 
