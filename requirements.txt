@@ -1,5 +1,11 @@
 torch 
+torchvision 
+torchaudio 
 transformers 
+datasets 
 numpy 
 pandas 
+matplotlib 
 jupyter 
+scikit-learn 
+seaborn 
